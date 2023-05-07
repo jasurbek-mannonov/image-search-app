@@ -1,3 +1,4 @@
+// API unsplash.com saytidan olingan
 const accesKey = "2Qwgh-me91nX8DwNNLtmI6vsTgj8Z0OtxCYP1EsVlEE"
 
 const formEl = document.querySelector("form")
